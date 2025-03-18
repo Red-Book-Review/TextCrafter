@@ -13,7 +13,7 @@ import logging
 import os
 from dotenv import load_dotenv
 
-# Настройки логирования: Включаем логирование, чтобы видеть, что происходит
+# Настройки логирования: Включаем логирование, чтобы видеть, что происходит.
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 

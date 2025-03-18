@@ -57,3 +57,4 @@ desktop.ini
 # Файлы настроек для локальной разработки
 config.local.py
 settings.local.py
+.env
